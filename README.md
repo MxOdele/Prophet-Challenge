@@ -84,11 +84,7 @@ Below is a more in-depth explanation of the various cells coded within the `fore
 | 29 | X |
 | 30 | X |
 | 31 | X |
-| Q6 | Question: \
-What time of day exhibits the greatest popularity?
-\
-Answer: \
-Around midnight |
+| Q6 | **Question:** <br> What time of day exhibits the greatest popularity? <br> **Answer:** <br> Around midnight |
 | Q7 | X |
 | Q8 | X |
 
